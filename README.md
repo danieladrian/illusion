@@ -1,2 +1,2 @@
 # illusion
-A framework from scratch
+A PHP framework from scratch
